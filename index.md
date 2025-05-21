@@ -17,6 +17,10 @@ title: My Portfolio
     <h3><a href="https://github.com/sridhardumbala/hello-retail-workshop">Hello, Retail! Nordstrom Technology open-source project</a></h3>
     <p>Hello, Retail! is a 100% serverless, event-driven framework and functional proof-of-concept showcasing a central unified log approach as applied to the retail problem space. All code and patterns are intended to be re-usable for scalable applications large and small.</p>
   </div>
+  <div class="card">
+    <h3><a href="https://github.com/sridhardumbala/my-journey-with-java">java learnings and build for CLI project</a></h3>
+    <p>Command Line Interface application built to mimic basic workflow that can be utilized in car delearships</p>
+  </div>
 </div>
 
 <h2>📝 Blog</h2>
